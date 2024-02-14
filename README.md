@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Profile
+## 👟Profile
 - 🎮 Working at Plotrick Co., Ltd
 - 🧟‍♂️ Learning (Mobile) Game Development from the ground up
 - 🖼️ Studying Unity & C#
