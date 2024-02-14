@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🖼️ Studying Unity & C#
 - 🏛️ Hoping to Become a UX/UI Programmer
 ## 📚 Wishlist of Books
-- [ ] A Theory of Fun for Game Design -- Koster, Raph
-- [ ] This is C# -- Park Sanghyun
-- [ ] The Gamer's Brain -- Celia Hodent
+- A Theory of Fun for Game Design -- Koster, Raph
+- This is C# -- Park Sanghyun
+- The Gamer's Brain -- Celia Hodent
