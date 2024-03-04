@@ -23,4 +23,5 @@ Here are some ideas to get you started:
 - The Gamer's Brain -- Celia Hodent
 
 ## 💡Links
-- [MarkDown Syntax](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC#%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4_markdown_%EC%9D%B4%EB%9E%80) (블로그)
+- [MarkDown Syntax](https://inpa.tistory.com/entry/MarkDown-%F0%9F%93%9A-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EB%AC%B8%EB%B2%95-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC#%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4_markdown_%EC%9D%B4%EB%9E%80) (Blog)
+- [Coding Apple](https://codingapple.com/) (Paid Lecture)
