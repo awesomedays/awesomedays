@@ -10,11 +10,5 @@
 - C#, Unity
 - JavaScript, TypeScript, Python
 - Windows, Android + iOS
-## GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=awesomedays&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awesomedays&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
 ## Contact
 - **Email:** l50122498@gmail.com
