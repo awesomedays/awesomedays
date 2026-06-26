@@ -4,7 +4,7 @@
 
 > 게임을 기획하고, AI 에이전트로 직접 만드는 5년차 게임 기획자·PM
 
-플로트릭(Plotrick) 게임 기획자. 라이브 운영·콘텐츠 기획에서 출발해, 지금은 팀에서 **메인기획·PM·마케팅**을 맡고 AI 에이전트로 **프로토타입까지 직접** 만듭니다. 유니티·C# 기반에서 **웹(JS/TS) + 에이전트 AI(Claude Code)**로 영역을 확장 중입니다.
+플로트릭(Plotrick) 게임 기획자. 라이브 운영·콘텐츠 기획에서 출발해, 지금은 팀에서 **메인기획·PM·마케팅**을 맡고 AI 에이전트로 **프로토타입까지 직접** 만듭니다. 유니티·C# 기반에서 **웹과 에이전트 AI**(JS/TS · Claude Code)로 영역을 확장 중입니다.
 
 ## 🎮 출시작
 
@@ -29,15 +29,11 @@
 - **[rtk14-helper](https://github.com/awesomedays/rtk14-helper)** — 삼국지14 내정 도우미 (Vanilla JS, 무장 1,200 DB)
 - **[ma9-push](https://github.com/awesomedays/ma9-push)** — 마구마구 경기종료 알림 (C#/.NET, OpenCV)
 - **ExcelCraft** — 엑셀을 전투 메커닉으로 차용한 타이핑 게임 (React + Electron, 단독 개발 실험작)
-- **KBO 승률 예측 모델** — 세이버메트릭스 기반 상향식 모델 (Python)
+- **KBO 승률 예측 모델** — 세이버메트릭스 상향식 모델 (wRC+·FIP-·WHIP 기반, Python)
 
 ## 전문분야
 
 게임 기획(시스템·콘텐츠·UI) · 데이터 기획(Firebase·GA4) · 라이브 운영 · 스팀 마케팅 · AI 에이전트 활용 개발
-
-## 스택
-
-코드는 **Claude Code**로 프로토타입을 만들며 작업합니다 — `JavaScript` `TypeScript` `PixiJS` `Electron` `Python` `C#` `Unity`
 
 ## Contact
 

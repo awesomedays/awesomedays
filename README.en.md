@@ -29,15 +29,11 @@ Game designer at **Plotrick**. Started in live-ops and content design; today I l
 - **[rtk14-helper](https://github.com/awesomedays/rtk14-helper)** — RTK14 governance helper (Vanilla JS, 1,200-officer DB)
 - **[ma9-push](https://github.com/awesomedays/ma9-push)** — Ma9Ma9 match-end notifier (C#/.NET, OpenCV)
 - **ExcelCraft** — a typing game that turns Excel into combat mechanics (React + Electron, solo build)
-- **KBO Win-Rate Model** — sabermetrics-based prediction model (Python)
+- **KBO Win-Rate Model** — sabermetrics-based model (wRC+, FIP-, WHIP; Python)
 
 ## Focus
 
 System & content design · Data design (Firebase·GA4) · Live-ops · Steam marketing · AI-assisted development
-
-## Stack
-
-Code is built by prototyping with **Claude Code** — `JavaScript` `TypeScript` `PixiJS` `Electron` `Python` `C#` `Unity`
 
 ## Contact
 
